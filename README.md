@@ -1,3 +1,3 @@
-## StudentGrades
+## projectOne
 
-Student grade machine learning data science project.
+US Census DS project to explore trends from recent years.
